@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: #ff9618;
+    font-size: 20px;
+    color: white;
+    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 800px;
+    height: 480px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 76px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+}
