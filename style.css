@@ -1,13 +1,14 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #975b11;
-    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #12b0c5;
+    
 }
 
 h2 {
-    font-size: 76px;
-    font-weight: 700;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 90px;
+    font-weight: bold;
     color: white;
     position: absolute;
     left: 50%;
